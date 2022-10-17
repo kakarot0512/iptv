@@ -1,0 +1,13 @@
+CNA,https://list.iptvcat.com/my_list/s/275921f704a86d48056548cdc620e676.m3u8
+CNA2,https://list.iptvcat.com/my_list/s/a7e05eef940fb656407c55a172e6b861.m3u8
+BBC1,https://list.iptvcat.com/my_list/s/b2f85ab12c4137f1171db8db4026de8b.m3u8
+BBC2,https://list.iptvcat.com/my_list/s/dd27a7975fdb5cfb67fbad3d0989740a.m3u8
+BBC America,https://list.iptvcat.com/my_list/s/24534ff166a246181b5b8153e9fb1834.m3u8
+Bloomberg TV+,https://list.iptvcat.com/my_list/s/e67c5da96586a4d086278f4eab8c031c.m3u8
+Bloomberg Quicktake,https://list.iptvcat.com/my_list/s/6facd91ab521cde0ca9100c76ba0c918.m3u8
+Bloomberg TV Asia,https://list.iptvcat.com/my_list/s/22aba5a8add3aa5f550f5d04140b9ada.m3u8
+Bloomberg TV Asia Live Event,https://list.iptvcat.com/my_list/s/7f283a53bf68636e1d59b837ba754b7f.m3u8
+Bloomberg TV US Live Event,https://list.iptvcat.com/my_list/s/3bb7810b788ce7c00dc73b5b4ef38c9b.m3u8
+Bloomberg TV US Politics Live Event ,https://list.iptvcat.com/my_list/s/5b8e12108ecfc1253ec1d35a8af3d7d7.m3u8
+Reuters,https://list.iptvcat.com/my_list/s/558bc597b916632240e08e7e4001d0e4.m3u8
+Reuters Now,https://list.iptvcat.com/my_list/s/e076383757ab2ecd74a9b6520c82b699.m3u8
