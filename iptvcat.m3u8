@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:0 tvg-country="AF;AL;DZ;BG;CL;FI;IQ;JP;SG" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FD3-061-400x400.png" group-title="Undefined",ABC Asahi (540p)
+https://cdn.us195.jpnettv.live/jptv/kansi_abc_asahi_540/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;DZ;BG;CL;FI;IQ;JP;SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Undefined",Animax (720p)
+https://cdn.us195.jpnettv.live/jptv/janimax_720/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;DZ;BG;CL;CO;FI;GR;IQ;JP;SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="General",BBC One HD (540p)
+http://w4.12all.tv:4000/play/bbc1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;DZ;BG;CL;CO;FI;GR;IQ;JP;SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="Undefined",BBC Two HD (720p)
+http://w4.12all.tv:4000/play/bbc2/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID;SG" tvg-logo="" group-title="News",Channel NewsAsia,CNA HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="News",CNA HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;DZ;BG;CL;CO;FI;GR;IQ;JP;SG" tvg-logo="https://i.imgur.com/N2eF0d7.png" group-title="Undefined",Free Speech TV (720p)
+https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;DZ;BG;CL;CO;FI;GR;IQ;JP;SG" tvg-logo="" group-title="Undefined",Hype Tv
+http://35.189.69.44/tmp_hls/desibox/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;DZ;BG;CL;CO;FI;GR;IQ;JP;SG" tvg-logo="" group-title="Undefined",ITV 1 (1080p)
+http://w4.12all.tv:4000/play/itv1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;BG;CL;FI;JP;SG" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-159-400x400.png" group-title="Undefined",Jidaigeki Senmon Channel (540p)
+https://cdnv148.cloudrsst.com/jptv/jidaigeki_540/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;BG;JP;SG" tvg-logo="https://i.imgur.com/0qtXIRM.png" group-title="Entertainment",Sun TV (540p) [Not 24/7]
+https://cdn.us195.jpnettv.live/jptv/kansi_sun_tv_540/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;DZ;AM;AU;BH;BB;BR;BG;KH;CA;CL;CN;CO;DK;EG;FI;FR;GE;DE;GR;HK;HU;IS;IN;ID;IR;IQ;IL;IT;JP;KW;MY;MX;MN;MA;NL;NZ;NO;OM;PK;PS;PA;PE;PH;PL;PT;QA;RO;SA;RS;SG;SK;ES;SD;SE;CH;TH;TR;UA;AE;GB;US;VN;YE" tvg-logo="" group-title="Undefined;FRANCE;ITALY;MEXICO;PAKISTAN;SPAIN;CHINA",Super Radyo DZBB,Super Radyo DZBB (720p) [Not 24/7]
+http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;DZ;BG;CL;CO;FI;GR;IQ;JP;SG" tvg-logo="https://i.imgur.com/rls8NVc.png" group-title="Undefined",TV Asahi (480p)
+http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;DZ;BG;CL;CO;FI;GR;IQ;JP;SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/512px-Tv_osaka_logo.svg.png" group-title="Undefined",TV Osaka (テレビ大阪) (540p)
+https://cdn.us195.jpnettv.live/jptv/kansi_tv_osaka_540/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;DZ;BG;CL;CO;FI;GR;IQ;JP;SG" tvg-logo="https://i.imgur.com/gHdoEc3.png" group-title="Undefined",TV Tokyo (480p)
+http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;DZ;BG;CL;CO;FI;GR;IQ;JP;SG" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-580-400x400.png" group-title="Undefined",Toei Channel (540p) [Not 24/7]
+https://cdnv148.cloudrsst.com/jptv/toa_540/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;DZ;BG;CL;CO;FI;GR;IQ;JP;SG" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E87-091-400x400.png" group-title="Undefined",Tokyo MX 1 (540p)
+https://cdn.us195.jpnettv.live/jptv/kanto_tokyo_mx1_540/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;DZ;BG;CL;CO;FI;GR;IQ;JP;SG" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FD5-101-400x400.png" group-title="Undefined",YTV Yomiuri TV (540p)
+https://cdn.us195.jpnettv.live/jptv/kansi_yomiuri_540/playlist.m3u8?checkedby:iptvcat.com
